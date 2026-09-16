@@ -137,7 +137,7 @@ button.addEventListener("click", function () {
     .then(function () {
 
       alert(
-        "Account created! 📧 Please check your email and verify your account before logging in."
+        "Account created! 📧 Please check your email spam or inbox and verify your account before logging in."
       );
 
       window.location.href = "index.html";
