@@ -280,7 +280,7 @@ h2 {
 }
 
 #prof {
-  position: absolute;
+  position: fixed;
   top: 102px;
   height: 100px;
   width: 285px;
